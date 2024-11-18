@@ -14,6 +14,4 @@ In the context of web technologies, **WRI** can also stand for **Web Retrieval I
 - Recommendation systems
 - Data aggregation platforms
 - Sentiment analysis from social media
-- Business intelligence dashboards
-
-If you're asking about a different context or acronym, feel free to clarify!
+- Business intelligence dashboard.
